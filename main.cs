@@ -11,7 +11,7 @@ class Program {
     if (double.TryParse(inchestyped, out double inches))
      {
      var x = inches * 2.54; 
-    //Display "Enter inches" inches equal to var x or cm//
+    //Displays conversion of inches to centimeters//
     Console.WriteLine($"{inches} inches is equal to {x} centimeters.");}
     // If input is not decimal form, output is invalid
    
