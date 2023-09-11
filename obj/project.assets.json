@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/InchesToCentmeters/main.csproj",
+      "projectUniqueName": "/home/runner/InchesToCentimeters/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/InchesToCentmeters/main.csproj",
+      "projectPath": "/home/runner/InchesToCentimeters/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/InchesToCentmeters/obj/",
+      "outputPath": "/home/runner/InchesToCentimeters/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
