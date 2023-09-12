@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/InchesToCentimeters/main.csproj": {}
+    "/home/runner/InchesToCentimeters-Interactive/main.csproj": {}
   },
   "projects": {
-    "/home/runner/InchesToCentimeters/main.csproj": {
+    "/home/runner/InchesToCentimeters-Interactive/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/InchesToCentimeters/main.csproj",
+        "projectUniqueName": "/home/runner/InchesToCentimeters-Interactive/main.csproj",
         "projectName": "main",
-        "projectPath": "/home/runner/InchesToCentimeters/main.csproj",
+        "projectPath": "/home/runner/InchesToCentimeters-Interactive/main.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/InchesToCentimeters/obj/",
+        "outputPath": "/home/runner/InchesToCentimeters-Interactive/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"
